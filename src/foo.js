@@ -1,3 +1,3 @@
 export default function(){
-	return 'hello'
+	return '天山雪莲'
 }
